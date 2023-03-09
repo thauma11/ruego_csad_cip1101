@@ -1,0 +1,48 @@
+body{
+    background-color: #004643
+}
+
+section{
+    border-radius: 25px; 
+    background-color: #abd1c6; 
+    padding: 20px; 
+    width: auto; 
+    height: auto; 
+    margin: 20px
+}
+
+h1{
+    font-family:Merriweather,Georgia; 
+    text-align: center; 
+    color: #fffffe; 
+    font-weight: bold
+}
+
+h2{
+    font-family:Merriweather,Georgia; 
+    margin:10px 10px; color: #004643; 
+    text-align: center; 
+    font-weight: bolder
+}
+
+h3 {
+    font-family:Merriweather,Georgia; 
+    text-align: center; 
+    color: #fffffe; 
+    font-weight: 200
+}
+
+p{
+    font-family:Poppins,Tahoma,Verdana,Sedoe;
+    font-size:16px; 
+    line-height:1.5; 
+    text-align:justify; 
+    margin:20px; 
+    color: #004643
+}
+
+hr{
+    border: 3px solid #001e1d; 
+    margin: 25px 25px 25px
+}
+
